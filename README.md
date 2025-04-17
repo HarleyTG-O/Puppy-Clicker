@@ -36,11 +36,9 @@ To install **Puppy Clicker** on your PC, follow these steps:
      pip install -r requirements.txt
      ```
 
-3. **Run the Game**:
-   - Once all dependencies are installed, navigate to the game folder and run:
-     ```bash
-     python puppy_clicker.py
-     ```
+2. **Run the Game**:
+   -Once all dependencies are installed, navigate to the game folder and run the executable file:
+      Puppy Clicker.exe
 
 4. **Game Assets**:
    - Download all the required game assets (logos, images, etc.) from [this GitHub link](https://github.com/HarleyTG-O/Puppy-Clicker/tree/main/Harley's%20Studio/Puppy%20Clicker/GameData).
@@ -68,8 +66,7 @@ Here are a few screenshots from the game to give you a taste of what to expect:
 ![Screenshot 2](https://example.com/screenshot2.png)
 
 ## License
-
-**Puppy Clicker** is open-source software and is distributed under the [MIT License](https://opensource.org/licenses/MIT).
+   Puppy Clicker is a free game but not open source. All rights to the game and its contents are reserved by the developer.
 
 ## Contact
 
