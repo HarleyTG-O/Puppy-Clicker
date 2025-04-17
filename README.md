@@ -58,13 +58,6 @@ A: All assets for the game can be found in the [GameData folder](https://github.
 **Q: How do I check for updates?**  
 A: The game has a built-in update checker that will notify you if there’s a newer version available.
 
-## Screenshots
-
-Here are a few screenshots from the game to give you a taste of what to expect:
-
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-
 ## License
    Puppy Clicker is a free game but not open source. All rights to the game and its contents are reserved by the developer.
 
@@ -72,8 +65,7 @@ Here are a few screenshots from the game to give you a taste of what to expect:
 
 For any issues or inquiries, feel free to reach out to the development team:
 
-- **GitHub Repository**: [Puppy Clicker](https://github.com/HarleyTG-O/Puppy-Clicker)
-- **Email**: contact@puppyclicker.com
+- **Discord**: Our Discord Server  !https://discord.gg/4qzRe6UJTQ
 
 ---
 
