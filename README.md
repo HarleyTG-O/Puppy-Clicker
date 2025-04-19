@@ -1,4 +1,4 @@
-<img src="https://github.com/HarleyTG-O/Puppy-Clicker/blob/main/Harley's%20Studio/Puppy%20Clicker/GameData/logo.png?raw=true" alt="Puppy Clicker Logo" width="200"/>
+<img src="https://github.com/HarleyTG-O/Puppy-Clicker/blob/main/Images/logo.png?raw=true" alt="Puppy Clicker Logo" width="200"/>
 
 
 # Puppy Clicker Game
