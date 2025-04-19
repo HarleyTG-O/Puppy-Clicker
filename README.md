@@ -1,6 +1,5 @@
 <img src="https://github.com/HarleyTG-O/Puppy-Clicker/blob/main/Images/logo.png?raw=true" alt="Puppy Clicker Logo" width="200"/>
 
-
 # Puppy Clicker Game
 
 ## Overview
@@ -12,6 +11,20 @@
 - **Customizable Puppy**: Personalize your puppy's appearance, name, and accessories.
 - **Achievements**: Track your progress with a variety of in-game achievements.
 - **Cute and Fun**: Enjoy adorable graphics and animations that will keep you entertained for hours.
+- **Pup Eye Anti-Cheat**: Keeps gameplay fair with smart detection of auto-clickers and tampering.
+
+## Pup Eye Anti-Cheat
+
+To ensure a fair and fun experience for all players, **Puppy Clicker** includes **Pup Eye Anti-Cheat**, a custom-built system designed to detect suspicious activity, including auto-clickers and game tampering.
+
+### What Pup Eye Does:
+- Monitors click patterns and speeds for unusual behavior.
+- Automatically flags potential auto-clicking with strike tracking.
+- Applies cooldowns and resets for repeated offenses.
+- Sends secure reports to the developer for review via Discord webhooks.
+- Respects user privacy while keeping the game safe and fun for everyone.
+
+Players who play fair won't even notice it's there—but cheaters, beware: **Pup Eye is always watching.** 👁️🐾
 
 ## Gameplay
 
@@ -37,9 +50,9 @@ To install **Puppy Clicker** on your PC, follow these steps:
      pip install -r requirements.txt
      ```
 
-2. **Run the Game**:
-   -Once all dependencies are installed, navigate to the game folder and run the executable file:
-      Puppy Clicker.exe
+3. **Run the Game**:
+   - Once all dependencies are installed, navigate to the game folder and run the executable file:
+     `Puppy Clicker.exe`
 
 4. **Game Assets**:
    - Download all the required game assets (logos, images, etc.) from [this GitHub link](https://github.com/HarleyTG-O/Puppy-Clicker/tree/main/Harley's%20Studio/Puppy%20Clicker/GameData).
@@ -60,13 +73,14 @@ A: All assets for the game can be found in the [GameData folder](https://github.
 A: The game has a built-in update checker that will notify you if there’s a newer version available.
 
 ## License
-   Puppy Clicker is a free game but not open source. All rights to the game and its contents are reserved by the developer.
+
+**Puppy Clicker** is a free game but not open source. All rights to the game and its contents are reserved by the developer.
 
 ## Contact
 
 For any issues or inquiries, feel free to reach out to the development team:
 
-- **Discord**: Our Discord Server  !https://discord.gg/4qzRe6UJTQ
+- **Discord**: [Our Discord Server](https://discord.gg/4qzRe6UJTQ)
 
 ---
 
